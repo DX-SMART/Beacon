@@ -1,10 +1,6 @@
 # Beacon Resource Download Center
 
 This repository provides technical documentation, testing tools, and reference source code for the full range of DX-SMART Beacon modules.
- **Note:** If you encounter an issue where the "Save" button in the App cannot be clicked, please download and use the legacy (older) version of the App.
- Just like it
- <img width="436" height="808" alt="微信图片_20260514091021_526_33" src="https://github.com/user-attachments/assets/c461956c-834b-430d-9e58-2c903c92a23c" />
-
 
 ## 📂 Resource Download List
 
@@ -21,3 +17,7 @@ Please find your product model below and click the corresponding "Download" link
 
 ---
 > 💡 **Tip:** Clicking the link will directly start downloading the corresponding RAR package.
+>  **Note:** If you encounter an issue where the "Save" button in the App cannot be clicked, please download and use the legacy (older) version of the App.
+ Just like it
+
+ <img width="436" height="808" alt="微信图片_20260514091021_526_33" src="https://github.com/user-attachments/assets/c461956c-834b-430d-9e58-2c903c92a23c" />
