@@ -16,8 +16,8 @@ Please find your product model below and click the corresponding "Download" link
 | **DX-CP35** | [Download (RAR)](https://github.com/DX-SMART/Beacon/releases/download/DX-CP35/DX-CP35.Development.User.Information.rar) |
 
 ---
-> 💡 **Tip:** Clicking the link will directly start downloading the corresponding RAR package.
-> **Note:** If you encounter an issue where the "Save" button in the App cannot be clicked, please download and use the legacy (older) version of the App.
+> 
+> ***Note:*** If you encounter an issue where the "Save" button in the App cannot be clicked, please download and use the legacy (older) version of the App.
  Just like it
 
  <img width="436" height="808" alt="微信图片_20260514091021_526_33" src="https://github.com/user-attachments/assets/c461956c-834b-430d-9e58-2c903c92a23c" />
