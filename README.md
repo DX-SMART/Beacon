@@ -1,6 +1,10 @@
+
 ## 📂 Resource Download List
 
 Please find your product model below and click the corresponding "Download" link to get the resource packet.
+
+> 💡 **Need Help?**
+> Having questions about APP configuration, SDK, or Home Assistant integration? Please check our [**Frequently Asked Questions (FAQ)**](./FAQ.md) first!
 
 | Product Model | Download Link (Direct Download) |
 | :--- | :--- |
