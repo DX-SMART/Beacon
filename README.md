@@ -20,9 +20,10 @@
 
 **App Download Center:**
 
+
 | Version (版本信息) | Download Link (下载链接) | Release Notes / Description (更新说明) |
 | :--- | :--- | :--- |
-| **DX-SMART V3.7** *(Latest)* | 📥 [Download (APK)](https://github.com/DX-SMART/Beacon/releases/download/DXC-SMART-APP/DXibeacon-08090447V3.7.apk) | Recommended. Fixes UI overflow and "Save" button unclickable issues on newer Android versions. |
-| **DX-SMART V3.1** *(Legacy)* | 📥 [Download (APK)]([./path/to/DX-SMART-V3.1.apk](https://github.com/DX-SMART/Beacon/releases/download/DX-SMART-V1.0/DXibeacon-09221058V3.1.apk)) | Legacy fallback version. Use this if V3.7 encounters compatibility issues on older devices. |
+| **DX-SMART V3.1** *(Legacy)* | 📥 [Download (APK)](https://github.com/DX-SMART/Beacon/releases/download/DX-SMART-V1.0/DXibeacon-09221058V3.1.apk) | Legacy fallback version. Use this if V3.7 encounters compatibility issues on older devices. |
+| **DX-SMART V3.7** *(Latest)* | 📥 [Download (APK)](https://github.com/DX-SMART/Beacon/releases/download/DXC-SMART-APP/DXibeacon-08090447V3.7.apk) |  Recommended. Fixes UI overflow and "Save" button unclickable issues on newer Android versions. |
 
  <img width="436" height="808" alt="微信图片_20260514091021_526_33" src="https://github.com/user-attachments/assets/c461956c-834b-430d-9e58-2c903c92a23c" />
