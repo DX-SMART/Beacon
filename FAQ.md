@@ -41,8 +41,8 @@ Our engineering team may provide a related tutorial in the future.
 
 **Q: Do you provide an SDK for Beacon devices?**
 
-**A:** We currently do not provide a dedicated Beacon SDK.
+**A:** In most use cases, beacon devices do not require a complex SDK, as their primary function is to broadcast BLE advertising packets. Developers can simply scan for these packets and parse the data according to the standard beacon advertising format.
 
-In most application scenarios, Beacon devices do not require a complex SDK because they mainly broadcast BLE advertising packets. Developers can scan the BLE advertising packets and parse the data according to the Beacon broadcast data format.
+For bulk orders, if you have specific configuration requirements, we can pre-configure the beacon devices according to your specifications before shipment.
 
-For bulk orders, if you have unified parameter requirements, we can pre-configure the Beacons according to your requirements before shipment.
+If you require an SDK for commercial applications or independent development, please contact our customer service team.
