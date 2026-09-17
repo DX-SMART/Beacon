@@ -4,13 +4,9 @@
 
 **Q: What should I do if some APP buttons cannot be clicked or the page layout is incorrect?**
 
-**A:** If you encounter this issue, please try using an older version of the APP.
+**A:** If certain buttons in the app are unresponsive or the page layout appears abnormal, please first update the app to the latest version (V3.7) via GitHub or the Google Play Store; if the issue persists, please revert to the previous version.
 
-Older versions have been published on GitHub and can be downloaded from the corresponding release page.
-
-We recommend using **APP V3.7 or later**.
-
-The latest APP version can be downloaded through GitHub or the Google Play Store.
+If the problem remains unresolved, please email our support team with your app version, phone model, Android system version, and relevant screenshots or screen recordings to assist us in further troubleshooting.
 
 
 ---
